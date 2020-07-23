@@ -1,6 +1,6 @@
 ## Hello, I'm Cameron 👋
 
-I'm a 3rd year Software Engineering undergraduate at [Lancaster University](https://www.lancaster.ac.uk/).
+I'm a 3rd year Software Engineering undergraduate at [Lancaster University](https://www.lancaster.ac.uk/scc/).
 
 <!-- https://lp.jetbrains.com/dv-2020/NwNqc8BeH4b0FBv1Cqj7/ -->
 
