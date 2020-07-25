@@ -3,6 +3,7 @@
 I'm a 3rd year Software Engineering undergraduate at [Lancaster University](https://www.lancaster.ac.uk/scc/).
 
 - 🌱 I’m currently learning [TensorFlow](https://www.tensorflow.org/)
+- 🧪 Favourite technologies: [Flutter](https://flutter.dev), [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/)
 - 📫 How to reach me: [c.clough1@lancaster.ac.uk](mailto:c.clough1@lancaster.ac.uk)
 - 😄 Pronouns: He/him
 
