@@ -10,7 +10,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
-        <img src="https://github-readme-stats.vercel.app/api?username=IncognitoJam&count_private=true&theme=onedark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IncognitoJam&count_private=true" />
       </a>
     </td>
     <td>
