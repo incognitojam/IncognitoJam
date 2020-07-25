@@ -22,6 +22,23 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   </tr>
 </table>
 
+<h3>My favourite projects</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/commaai/openpilot" title="commaai/openpilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=commaai&repo=openpilot&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MKorostoff/1-pixel-wealth" title="MKorostoff/1-pixel-wealth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKorostoff&repo=1-pixel-wealth&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!--
 **IncognitoJam/IncognitoJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
