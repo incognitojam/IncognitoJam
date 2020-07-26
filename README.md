@@ -4,7 +4,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 - 🌱 I’m currently learning [TensorFlow](https://www.tensorflow.org/)
 - 🧪 Favourite technologies: [Flutter](https://flutter.dev), [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/)
-- 🤓 Interested in [OSINT](https://twitter.com/projectowlosint), cryptography and fighting [poverty](https://www.bbc.co.uk/news/uk-48354692).
+- 🤓 Interested in [OSINT](https://twitter.com/projectowlosint), cryptography and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692).
 - 📫 How to reach me: [c.clough1@lancaster.ac.uk](mailto:c.clough1@lancaster.ac.uk)
 - 😄 Pronouns: He/him
 
