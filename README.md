@@ -23,7 +23,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   </tr>
 </table>
 
-<h3>My favourite projects</h3>
+<h3>⭐ Favourite projects</h3>
 
 <table>
   <tr>
@@ -39,6 +39,14 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
     </td>
   </tr>
 </table>
+
+<h3>📚 Reading list</h3>
+
+<ul>
+  <li>
+    <a href="https://www.bbc.co.uk/news/stories-52763560">The dying teenager who wanted world peace (and love) - BBC News</a>
+  </li>
+</ul>
 
 <!--
 **IncognitoJam/IncognitoJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
