@@ -47,6 +47,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   <li>
     <a href="https://www.bbc.co.uk/news/stories-52763560">The dying teenager who wanted world peace (and love) - BBC News - 26th July 2020</a>
   </li>
+  <li>
+    <a href="https://www.bbc.co.uk/news/health-53409521">Fertility rate: 'Jaw-dropping' global crash in children being born - BBC News - 15th July 2020</a>
+  </li>
 </ul>
 
 <!--
