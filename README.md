@@ -44,7 +44,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
-    <a href="https://www.bbc.co.uk/news/stories-52763560">The dying teenager who wanted world peace (and love) - BBC News</a>
+    <a href="https://www.bbc.co.uk/news/stories-52763560">The dying teenager who wanted world peace (and love) - BBC News - 26th July 2020</a>
   </li>
 </ul>
 
