@@ -11,6 +11,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
   <img src="https://github-readme-stats.vercel.app/api?username=IncognitoJam&count_private=true" />
 </a>
+<a href="https://wakatime.com/@IncognitoJam" title="Cameron's WakaTime Activity">
+  <img src="https://github.com/IncognitoJam/IncognitoJam/blob/master/images/stat.svg"/>
+</a>
 
 <h3>📝 Developer surveys</h3>
 
