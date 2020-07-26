@@ -2,7 +2,7 @@ name: Generate WakaTime Statistics
 
 on:
   schedule:
-    - cron: '0 14 * * *'
+    - cron: '30 14 * * *'
 
 jobs:
   generate-statistics:
