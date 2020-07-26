@@ -8,21 +8,16 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 - 📫 How to reach me: [c.clough1@lancaster.ac.uk](mailto:c.clough1@lancaster.ac.uk)
 - 😄 Pronouns: He/him
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
-        <img src="https://github-readme-stats.vercel.app/api?username=IncognitoJam&count_private=true" />
-      </a>
-    </td>
-    <td>
-      <h4>JetBrains Developer Ecosystem Survey results</h4>
-      <a href="https://lp.jetbrains.com/dv-2020/NwNqc8BeH4b0FBv1Cqj7/" title="JetBrains Survey Results">
-        <img src="https://github.com/IncognitoJam/IncognitoJam/blob/master/jetbrains.png?raw=true" width="350" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=IncognitoJam&count_private=true" />
+</a>
+
+<h3>📝 Developer surveys</h3>
+
+<ul>
+  <li><a href="https://insights.stackoverflow.com/survey/2020">Stack Overflow Developer Survey 2020</a></li>
+  <li><a href="https://lp.jetbrains.com/dv-2020/NwNqc8BeH4b0FBv1Cqj7/">My JetBrains Developer Survey results</a></li>
+</ul>
 
 <h3>⭐ Favourite projects</h3>
 
