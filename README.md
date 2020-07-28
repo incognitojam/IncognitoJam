@@ -2,7 +2,7 @@
 
 I'm a 3rd year Software Engineering undergraduate at [Lancaster University](https://www.lancaster.ac.uk/scc/).
 
-- 🌱 I’m currently learning [TensorFlow](https://www.tensorflow.org/)
+- 🌱 I’m currently learning [TensorFlow](https://www.tensorflow.org/) and [Rust](https://rust-lang.org)
 - 🧪 Favourite technologies: [Flutter](https://flutter.dev), [Vue.js](https://vuejs.org/), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts)
 - 🤓 Interested in [OSINT](https://twitter.com/projectowlosint), cryptography and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
 - 📫 How to reach me: [c.clough1@lancaster.ac.uk](mailto:c.clough1@lancaster.ac.uk)
