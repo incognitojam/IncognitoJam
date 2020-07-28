@@ -47,6 +47,15 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   </tr>
 </table>
 
+<h3>🎯 Goals for Summer 2020</h3>
+
+<ul>
+  <li>[x] <del>Learn Flutter again</del></li>
+  <li>[ ] Build some projects in Rust</li>
+  <li>[ ] Make a custom model for OpenPilot</li>
+  <li>[ ] Build something related to <a href="https://dogecoin.com">Dogecoin</a></li>
+</ul>
+
 <h3>📚 Reading list</h3>
 
 <ul>
