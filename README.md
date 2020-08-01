@@ -60,6 +60,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
+    <a href="https://www.bbc.co.uk/news/world-australia-53604477">Australia unveils plan to force Google and Facebook to pay for news - BBC News - 31st July 2020</a>
+  </li>
+  <li>
     <a href="https://www.bbc.co.uk/news/stories-52763560">The dying teenager who wanted world peace (and love) - BBC News - 26th July 2020</a>
   </li>
   <li>
