@@ -60,13 +60,10 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
+    <a href="https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted">The Secret SIMs Used By Criminals to Spoof Any Number - Motherboard by VICE - 12th August 2020</a>
+  </li>
+  <li>
     <a href="https://www.bbc.co.uk/news/world-australia-53604477">Australia unveils plan to force Google and Facebook to pay for news - BBC News - 31st July 2020</a>
-  </li>
-  <li>
-    <a href="https://www.bbc.co.uk/news/stories-52763560">The dying teenager who wanted world peace (and love) - BBC News - 26th July 2020</a>
-  </li>
-  <li>
-    <a href="https://www.bbc.co.uk/news/health-53409521">Fertility rate: 'Jaw-dropping' global crash in children being born - BBC News - 15th July 2020</a>
   </li>
 </ul>
 
