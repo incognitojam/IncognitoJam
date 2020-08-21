@@ -35,13 +35,13 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 <table>
   <tr>
     <td>
-      <a href="https://github.com/commaai/openpilot" title="commaai/openpilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=commaai&repo=openpilot&show_owner=true" />
+      <a href="https://github.com/MKorostoff/1-pixel-wealth" title="MKorostoff/1-pixel-wealth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKorostoff&repo=1-pixel-wealth&show_owner=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/MKorostoff/1-pixel-wealth" title="MKorostoff/1-pixel-wealth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKorostoff&repo=1-pixel-wealth&show_owner=true" />
+      <a href="https://github.com/commaai/openpilot" title="commaai/openpilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=commaai&repo=openpilot&show_owner=true" />
       </a>
     </td>
   </tr>
@@ -59,6 +59,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 <h3>📚 Reading list</h3>
 
 <ul>
+  <li>
+    <a href="https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/">FritzFrog: A New Generation of Peer-to-Peer Botnets - Guardicore Labs - 19th August 2020</a>
+  </li>
   <li>
     <a href="https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted">The Secret SIMs Used By Criminals to Spoof Any Number - Motherboard by VICE - 12th August 2020</a>
   </li>
