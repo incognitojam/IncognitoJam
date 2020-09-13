@@ -23,13 +23,6 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   </tr>
 </table>
 
-<h3>📝 Developer surveys</h3>
-
-<ul>
-  <li><a href="https://insights.stackoverflow.com/survey/2020">Stack Overflow Developer Survey 2020</a></li>
-  <li><a href="https://lp.jetbrains.com/dv-2020/NwNqc8BeH4b0FBv1Cqj7/">My JetBrains Developer Survey results</a></li>
-</ul>
-
 <h3>⭐ Favourite projects</h3>
 
 <table>
