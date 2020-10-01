@@ -46,6 +46,12 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
   </li>
 </ul>
 
+<h3>🎧 Now playing</h3>
+
+<a href="https://now-playing-profile-am7wp8zn5.vercel.app/now-playing?open">
+  <img src="https://now-playing-profile-am7wp8zn5.vercel.app/now-playing" width="256" height="64" alt="Now playing">
+</a>
+
 <!--
 **IncognitoJam/IncognitoJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
