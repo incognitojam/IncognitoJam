@@ -49,7 +49,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 <h3>🎧 Now playing</h3>
 
 <a href="https://now-playing-profile.incognitojam.vercel.app/now-playing?open">
-  <img src="https://now-playing-profile.incognitojam.vercel.app/now-playing?dark=true" width="256" height="64" alt="Now playing">
+  <img src="https://now-playing-profile.incognitojam.vercel.app/now-playing?dark=true" width="300" height="64" alt="Now playing">
 </a>
 
 <!--
