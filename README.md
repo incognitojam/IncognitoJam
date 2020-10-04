@@ -14,20 +14,14 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <h3>⭐ Favourite projects</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MKorostoff/1-pixel-wealth" title="MKorostoff/1-pixel-wealth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKorostoff&repo=1-pixel-wealth&show_owner=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/commaai/openpilot" title="commaai/openpilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=commaai&repo=openpilot&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>
+    💸  <a href="https://github.com/MKorostoff/1-pixel-wealth">MKorostoff/1-pixel-wealth</a> - wealth inequality in the USA
+  </li>
+  <li>
+    🚗  <a href="https://github.com/commaai/openpilot">commaai/openpilot</a> - an open source driver assistance system
+  </li>
+</ul>
 
 <h3>📚 Reading list</h3>
 
