@@ -27,6 +27,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
+    <a href="https://www.youtube.com/watch?v=vM_SAq0RoII">📺 If we open reality.exe? - Disrupt - 11th November 2020</a>
+  </li>
+  <li>
     <a href="https://www.youtube.com/watch?v=wbR-5mHI6bo">📺 Is It Too Late To Stop Climate Change? Well, it's Complicated. - Kurzgesagt - 29th September 2020</a>
   </li>
   <li>
