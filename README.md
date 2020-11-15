@@ -30,22 +30,25 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
-    <a href="https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/">📌 How Taiwan’s Unlikely Digital Minister Hacked the Pandemic - Wired - 23rd July 2020</a>
+    <a href="https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/">📌 How Taiwan’s Unlikely Digital Minister Hacked the Pandemic - Wired - 2020/06/23</a>
   </li>
   <li>
-    <a href="https://www.youtube.com/watch?v=vM_SAq0RoII">📺 If we open reality.exe? - Disrupt - 11th November 2020</a>
+    <a href="https://www.thetimes.co.uk/article/what-happens-when-you-put-the-public-in-charge-fl2qn2b7p">What happens when you put the public in charge? - The Times - 2020/06/04</a>
   </li>
   <li>
-    <a href="https://www.youtube.com/watch?v=wbR-5mHI6bo">📺 Is It Too Late To Stop Climate Change? Well, it's Complicated. - Kurzgesagt - 29th September 2020</a>
+    <a href="https://www.youtube.com/watch?v=vM_SAq0RoII">📺 If we open reality.exe? - Disrupt - 2020/11/11</a>
   </li>
   <li>
-    <a href="https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/">FritzFrog: A New Generation of Peer-to-Peer Botnets - Guardicore Labs - 19th August 2020</a>
+    <a href="https://www.youtube.com/watch?v=wbR-5mHI6bo">📺 Is It Too Late To Stop Climate Change? Well, it's Complicated. - Kurzgesagt - 2020/09/29</a>
   </li>
   <li>
-    <a href="https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted">The Secret SIMs Used By Criminals to Spoof Any Number - Motherboard by VICE - 12th August 2020</a>
+    <a href="https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/">FritzFrog: A New Generation of Peer-to-Peer Botnets - Guardicore Labs - 2020/08/19</a>
   </li>
   <li>
-    <a href="https://www.bbc.co.uk/news/world-australia-53604477">Australia unveils plan to force Google and Facebook to pay for news - BBC News - 31st July 2020</a>
+    <a href="https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted">The Secret SIMs Used By Criminals to Spoof Any Number - Motherboard by VICE - 2020/08/12</a>
+  </li>
+  <li>
+    <a href="https://www.bbc.co.uk/news/world-australia-53604477">Australia unveils plan to force Google and Facebook to pay for news - BBC News - 2020/07/31</a>
   </li>
 </ul>
 
