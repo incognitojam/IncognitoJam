@@ -19,6 +19,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
     💸  <a href="https://github.com/MKorostoff/1-pixel-wealth">MKorostoff/1-pixel-wealth</a> - wealth inequality in the USA
   </li>
   <li>
+    🗳️  <a href="https://github.com/pol-is/polis">pol-is/polis</a> - pol.is an AI powered sentiment gathering platform
+  </li>
+  <li>
     🚗  <a href="https://github.com/commaai/openpilot">commaai/openpilot</a> - an open source driver assistance system
   </li>
 </ul>
