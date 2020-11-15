@@ -27,6 +27,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
+    <a href="https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/">📌 How Taiwan’s Unlikely Digital Minister Hacked the Pandemic - Wired - 23rd July 2020</a>
+  </li>
+  <li>
     <a href="https://www.youtube.com/watch?v=vM_SAq0RoII">📺 If we open reality.exe? - Disrupt - 11th November 2020</a>
   </li>
   <li>
