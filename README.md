@@ -33,6 +33,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
     <a href="https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/">📌 How Taiwan’s Unlikely Digital Minister Hacked the Pandemic - Wired - 2020/06/23</a>
   </li>
   <li>
+    <a href="https://www.bbc.co.uk/news/av/uk-55133081">📺 Burnley: ‘Children ripping bags open for food’ during pandemic - BBC News - 2020/12/01</a>
+  </li>
+  <li>
     <a href="https://www.thetimes.co.uk/article/what-happens-when-you-put-the-public-in-charge-fl2qn2b7p">What happens when you put the public in charge? - The Times - 2020/06/04</a>
   </li>
   <li>
