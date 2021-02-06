@@ -5,7 +5,6 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 - 🌱 I’m currently learning [Rust](https://rust-lang.org) and [Neural Networks](https://nnfs.io/)
 - 🧪 Favourite technologies: [Vue.js](https://vuejs.org/), [Flutter](https://flutter.dev), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts)
 - 🤓 Interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
-- 📫 How to reach me: [c.clough1@lancaster.ac.uk](mailto:c.clough1@lancaster.ac.uk)
 - 😄 Pronouns: He/him
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
