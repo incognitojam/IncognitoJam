@@ -32,6 +32,9 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
+    <a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">💉 Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine - bert hubert - 2020/12/25</a>
+  </li>
+  <li>
     <a href="https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/">📌 How Taiwan’s Unlikely Digital Minister Hacked the Pandemic - Wired - 2020/06/23</a>
   </li>
   <li>
