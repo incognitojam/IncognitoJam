@@ -32,6 +32,8 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 
 <ul>
   <li>
+    <a href="https://www.theguardian.com/environment/2021/feb/25/atlantic-ocean-circulation-at-weakest-in-a-millennium-say-scientists">🌨 Atlantic Ocean circulation at weakest in a millennium, say scientists - The Guardian - 2021/02/25</a>
+  <li>
     <a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">💉 Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine - bert hubert - 2020/12/25</a>
   </li>
   <li>
@@ -41,7 +43,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
     <a href="https://www.bbc.co.uk/news/av/uk-55133081">📺 Burnley: ‘Children ripping bags open for food’ during pandemic - BBC News - 2020/12/01</a>
   </li>
   <li>
-    <a href="https://www.thetimes.co.uk/article/what-happens-when-you-put-the-public-in-charge-fl2qn2b7p">What happens when you put the public in charge? - The Times - 2020/06/04</a>
+    <a href="https://www.thetimes.co.uk/article/what-happens-when-you-put-the-public-in-charge-fl2qn2b7p">📊 What happens when you put the public in charge? - The Times - 2020/06/04</a>
   </li>
   <li>
     <a href="https://www.youtube.com/watch?v=vM_SAq0RoII">📺 If we open reality.exe? - Disrupt - 2020/11/11</a>
@@ -56,7 +58,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
     <a href="https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted">The Secret SIMs Used By Criminals to Spoof Any Number - Motherboard by VICE - 2020/08/12</a>
   </li>
   <li>
-    <a href="https://www.bbc.co.uk/news/world-australia-53604477">Australia unveils plan to force Google and Facebook to pay for news - BBC News - 2020/07/31</a>
+    <a href="https://www.bbc.co.uk/news/world-australia-53604477">📰 Australia unveils plan to force Google and Facebook to pay for news - BBC News - 2020/07/31</a>
   </li>
 </ul>
 
