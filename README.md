@@ -1,6 +1,6 @@
 ## Hello, I'm Cameron 👋
 
-I'm a 3rd year Software Engineering undergraduate at [Lancaster University](https://www.lancaster.ac.uk/scc/).
+I'm a 3rd year Software Engineering undergraduate.
 
 - 🌱 I’m currently learning [Rust](https://rust-lang.org) and [Neural Networks](https://nnfs.io/)
 - 🧪 Favourite technologies: [Vue.js](https://vuejs.org/), [Flutter](https://flutter.dev), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts)
@@ -8,7 +8,7 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
 - 😄 Pronouns: He/him
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api?username=IncognitoJam&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=incognitojam&count_private=true" />
 </a>
 
 <h3>⭐ Favourite projects</h3>
@@ -61,24 +61,3 @@ I'm a 3rd year Software Engineering undergraduate at [Lancaster University](http
     <a href="https://www.bbc.co.uk/news/world-australia-53604477">📰 Australia unveils plan to force Google and Facebook to pay for news - BBC News - 2020/07/31</a>
   </li>
 </ul>
-
-<h3>🎧 Now playing</h3>
-
-<a href="https://now-playing-profile.incognitojam.vercel.app/now-playing?open">
-  <img src="https://now-playing-profile.incognitojam.vercel.app/now-playing?width=350" width="350" height="64" alt="Now playing">
-</a>
-
-<!--
-**IncognitoJam/IncognitoJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
