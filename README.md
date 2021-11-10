@@ -1,10 +1,10 @@
 ## Hello, I'm Cameron 👋
 
-I'm a 3rd year Software Engineering undergraduate.
+I'm a masters student studying Software Engineering at [Lancaster University](https://lancaster.ac.uk).
 
-- 🌱 I’m currently learning [Rust](https://rust-lang.org) and [Neural Networks](https://nnfs.io/)
-- 🧪 Favourite technologies: [Vue.js](https://vuejs.org/), [Flutter](https://flutter.dev), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts)
-- 🤓 Interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
+- 🌱 I’m currently learning about [Neural Networks](https://nnfs.io/).
+- 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts)
+- 🤓 I'm interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
 - 😄 Pronouns: He/him
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
