@@ -4,7 +4,8 @@ I'm a masters student studying Software Engineering at [Lancaster University](ht
 
 - 🌱 I’m currently learning about [Neural Networks](https://nnfs.io/).
 - 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts)
-- 🤓 I'm interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
+- 🤓 I'm interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692).
+- 🚗 I'm making my car [drive itself*](https://github.com/commaai/openpilot)!
 - 😄 Pronouns: He/him
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
