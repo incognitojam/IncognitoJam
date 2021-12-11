@@ -24,7 +24,7 @@ I'm a masters student studying Software Engineering at [Lancaster University](ht
     </ul>
   </li>
   <li>
-    📻  <a href="http://radio.garden/">Radio Garden</a> - Explore live radio by rotating the globe.
+    📻  <a href="http://radio.garden/">Radio Garden</a> - explore live radio by rotating the globe
   </li>
   <li>
     💸  <a href="https://github.com/MKorostoff/1-pixel-wealth">MKorostoff/1-pixel-wealth</a> - wealth inequality in the USA
