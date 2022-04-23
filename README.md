@@ -3,7 +3,7 @@
 I'm a masters student studying Software Engineering at [Lancaster University](https://lancaster.ac.uk).
 
 - 🌱 I’m currently learning about [neural networks](https://nnfs.io/).
-- 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Firebase](https://firebase.google.com/) and [Docker](https://docs.docker.com/get-started/#docker-concepts).
+- 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Docker](https://docs.docker.com/get-started/#docker-concepts).
 - 🤓 I'm interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692).
 - 🚗 I'm making my car [drive itself*](https://github.com/incognitojam/openpilot)!
 - 😄 Pronouns: He/him
@@ -12,7 +12,7 @@ I'm a masters student studying Software Engineering at [Lancaster University](ht
   <img src="https://github-readme-stats.vercel.app/api?username=incognitojam&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-<h3>⭐ Favourite projects</h3>
+<h3>⭐ Highlighted projects</h3>
 
 <ul>
   <li>
@@ -37,6 +37,11 @@ I'm a masters student studying Software Engineering at [Lancaster University](ht
 <h3>📚 Reading list</h3>
 
 <ul>
+  <li>
+    <a href="https://www.theguardian.com/food/ng-interactive/2022/apr/14/climate-crisis-food-systems-not-ready-biodiversity">🌾 Our food system
+isn't ready for the
+climate crisis - The Guardian - 2022/04/23</a>
+  </li>
   <li>
     <a href="https://www.theguardian.com/environment/2021/feb/25/atlantic-ocean-circulation-at-weakest-in-a-millennium-say-scientists">🌨 Atlantic Ocean circulation at weakest in a millennium, say scientists - The Guardian - 2021/02/25</a>
   <li>
