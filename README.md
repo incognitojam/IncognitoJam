@@ -1,11 +1,10 @@
 ## Hello, I'm Cameron 👋
 
-I'm a masters student studying Software Engineering at [Lancaster University](https://lancaster.ac.uk)
-
+- 🚗 I'm interning at [comma.ai](https://comma.ai) working on [openpilot](https://github.com/commaai/openpilot)!
 - 🌱 I’m currently learning about [neural networks](https://nnfs.io/)
 - 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Docker](https://docs.docker.com/get-started/#docker-concepts)
-- 🤓 I'm interested in [OSINT](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
-- 🚗 I'm making my car [drive itself*](https://github.com/incognitojam/openpilot)!
+- 🤓 I'm interested in [open-source intelligence (OSINT)](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
+- 🧑‍🎓 I have a first-class honours degree in Software Engineering from [Lancaster University](https://lancaster.ac.uk)
 - 😄 Pronouns: He/him
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
