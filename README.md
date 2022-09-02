@@ -37,9 +37,7 @@
 
 <ul>
   <li>
-    <a href="https://www.theguardian.com/food/ng-interactive/2022/apr/14/climate-crisis-food-systems-not-ready-biodiversity">🌾 Our food system
-isn't ready for the
-climate crisis - The Guardian - 2022/04/23</a>
+    <a href="https://www.theguardian.com/food/ng-interactive/2022/apr/14/climate-crisis-food-systems-not-ready-biodiversity">🌾 Our food system isn't ready for the climate crisis - The Guardian - 2022/04/23</a>
   </li>
   <li>
     <a href="https://www.theguardian.com/environment/2021/feb/25/atlantic-ocean-circulation-at-weakest-in-a-millennium-say-scientists">🌨 Atlantic Ocean circulation at weakest in a millennium, say scientists - The Guardian - 2021/02/25</a>
