@@ -30,7 +30,7 @@
 
 <ul>
   <li>
-    <a href="https://www.ft.com/content/ef265420-45e8-497b-b308-c951baa68945">💰 Britain and the US are poor societies with some very rich people - FT - 2022/09/15</a>
+    <a href="https://12ft.io/proxy?q=https%3A%2F%2Fwww.ft.com%2Fcontent%2Fef265420-45e8-497b-b308-c951baa68945">💰 Britain and the US are poor societies with some very rich people - FT - 2022/09/15</a>
   </li>
   <li>
     <a href="https://www.theguardian.com/food/ng-interactive/2022/apr/14/climate-crisis-food-systems-not-ready-biodiversity">🌾 Our food system isn't ready for the climate crisis - The Guardian - 2022/04/23</a>
