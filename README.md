@@ -30,10 +30,11 @@
 
 <ul>
   <li>
-    <a href="https://www.theguardian.com/food/ng-interactive/2022/apr/14/climate-crisis-food-systems-not-ready-biodiversity">🌾 Our food system isn't ready for the climate crisis - The Guardian - 2022/04/23</a>
+    <a href="https://www.ft.com/content/ef265420-45e8-497b-b308-c951baa68945">💰 Britain and the US are poor societies with some very rich people - FT - 2022/09/15</a>
   </li>
   <li>
-    <a href="https://www.theguardian.com/environment/2021/feb/25/atlantic-ocean-circulation-at-weakest-in-a-millennium-say-scientists">🌨 Atlantic Ocean circulation at weakest in a millennium, say scientists - The Guardian - 2021/02/25</a>
+    <a href="https://www.theguardian.com/food/ng-interactive/2022/apr/14/climate-crisis-food-systems-not-ready-biodiversity">🌾 Our food system isn't ready for the climate crisis - The Guardian - 2022/04/23</a>
+  </li>
   <li>
     <a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">💉 Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine - bert hubert - 2020/12/25</a>
   </li>
@@ -47,9 +48,6 @@
     <a href="https://www.thetimes.co.uk/article/what-happens-when-you-put-the-public-in-charge-fl2qn2b7p">📊 What happens when you put the public in charge? - The Times - 2020/06/04</a>
   </li>
   <li>
-    <a href="https://www.youtube.com/watch?v=vM_SAq0RoII">📺 If we open reality.exe? - Disrupt - 2020/11/11</a>
-  </li>
-  <li>
     <a href="https://www.youtube.com/watch?v=wbR-5mHI6bo">📺 Is It Too Late To Stop Climate Change? Well, it's Complicated. - Kurzgesagt - 2020/09/29</a>
   </li>
   <li>
@@ -57,9 +55,6 @@
   </li>
   <li>
     <a href="https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted">The Secret SIMs Used By Criminals to Spoof Any Number - Motherboard by VICE - 2020/08/12</a>
-  </li>
-  <li>
-    <a href="https://www.bbc.co.uk/news/world-australia-53604477">📰 Australia unveils plan to force Google and Facebook to pay for news - BBC News - 2020/07/31</a>
   </li>
 </ul>
 
