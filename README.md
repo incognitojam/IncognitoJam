@@ -1,6 +1,6 @@
 ## Hello, I'm Cameron 👋
 
-- 🚗 I'm interning at [comma.ai](https://comma.ai) working on [openpilot](https://github.com/commaai/openpilot)!
+- 🚗 I work on [openpilot](https://github.com/commaai/openpilot) at [comma.ai](https://comma.ai)
 - 🌱 I’m currently learning about [neural networks](https://nnfs.io/)
 - 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Docker](https://docs.docker.com/get-started/#docker-concepts)
 - 🤓 I'm interested in [open-source intelligence (OSINT)](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
