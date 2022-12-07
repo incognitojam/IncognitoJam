@@ -7,6 +7,8 @@
 - 🧑‍🎓 I have a first class honours degree in Software Engineering MSci from [Lancaster University](https://lancaster.ac.uk)
 - 😄 Pronouns: He/him
 
+[![wakatime](https://wakatime.com/badge/user/28037aea-5bfb-4819-8766-ade682674479.svg)](https://wakatime.com/@28037aea-5bfb-4819-8766-ade682674479)
+
 <h3>⭐ Highlighted projects</h3>
 
 <ul>
