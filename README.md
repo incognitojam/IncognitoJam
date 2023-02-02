@@ -1,12 +1,5 @@
 ## Hello, I'm Cameron 👋
 
-- 🚗 I work on [openpilot](https://github.com/commaai/openpilot) at [comma.ai](https://comma.ai)
-- 🌱 I’m currently learning about [neural networks](https://nnfs.io/)
-- 🧪 My favourite technologies are: [Vue.js](https://vuejs.org/), [Docker](https://docs.docker.com/get-started/#docker-concepts)
-- 🤓 I'm interested in [open-source intelligence (OSINT)](https://twitter.com/projectowlosint), cryptocurrencies and [fighting poverty](https://www.bbc.co.uk/news/uk-48354692)
-- 🧑‍🎓 I have a first class honours degree in Software Engineering MSci from [Lancaster University](https://lancaster.ac.uk)
-- 😄 Pronouns: He/him
-
 [![wakatime](https://wakatime.com/badge/user/28037aea-5bfb-4819-8766-ade682674479.svg)](https://wakatime.com/@28037aea-5bfb-4819-8766-ade682674479)
 
 <h3>⭐ Highlighted projects</h3>
