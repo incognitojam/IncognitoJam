@@ -7,11 +7,6 @@
 <ul>
   <li>
     🚗  <a href="https://github.com/commaai/openpilot">commaai/openpilot</a> - an open source driver assistance system
-    <ul>
-      <li>
-        🔵  <a href="https://github.com/incognitojam/openpilot">incognitojam/openpilot</a> - porting openpilot to Ford vehicles
-      </li>
-    </ul>
   </li>
   <li>
     📻  <a href="http://radio.garden/">Radio Garden</a> - explore live radio by rotating the globe
